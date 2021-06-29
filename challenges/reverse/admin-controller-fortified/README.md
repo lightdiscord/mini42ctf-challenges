@@ -1,1 +1,1 @@
-We found this executable somewhere in a shady computer but it asks us for a password?
+A shady guy is asking us for a password, he said something like "bla bla xor bla bla bla".
