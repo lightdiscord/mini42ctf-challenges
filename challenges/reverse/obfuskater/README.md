@@ -1,2 +1,2 @@
-The anarchists have taken the place of the bocal and yeeted the norm from existance. But now
-I have a problem, everyone is writing this kind of code and I don't understand it!
+Some anarchists want to abolish the norm but you need to stop them.
+I heard they use a new program to exchange messages but you need to find the code to alert your bocal.
