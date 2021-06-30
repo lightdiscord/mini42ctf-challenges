@@ -1,0 +1,20 @@
+version: '2'
+
+services:
+  aaaaaaaaaaaa:
+    build: ./challenges/pwn/AAAAAAAAAAAA
+    restart: always
+    ports:
+      - "20100:20100"
+
+  whoami:
+    build: ./challenges/web/whoami
+    restart: always
+    ports:
+      - "20200:80"
+
+  checksum:
+    build: ./challenges/web/checksum
+    restart: always
+    ports:
+      - "20300:80"
